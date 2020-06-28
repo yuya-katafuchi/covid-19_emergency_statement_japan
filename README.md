@@ -8,5 +8,5 @@ Date-range data of the COVID-19 emergency statement for the prefectures in Japan
 * `emergency_start`: The date on which the Government of Japan declared a state of emergency for COVID-19 infection.
 * `emergency_start`: The date on which the Government of Japan declared that the state of emergency is over because it has recognized that it is no longer necessary to implement emergency measures.
 
-## source
+## Data source
 Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan, "Report on the Implementation of the Declaration of a New Coronavirus Infectious Disease Emergency," (in Japanese), 2020/06/04, URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku0604.pdf
