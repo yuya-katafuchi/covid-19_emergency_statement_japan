@@ -29,6 +29,7 @@ The R script `make_long_covid-19_emergency_statement_japan.R` converts the date 
 ### Example of code filtering the long-format data for Tokyo from January 1, 2021 (on January 26, 2021):
 Code:
 ```R
+library(tidyverse)
 library(lubridate)
 
 df_date_range_long %>%
@@ -44,6 +45,7 @@ Output:
 ### Example of code depicting the emergency declaration date-coverage for Hokkaido, Tokyo, Kyoto, and Fukuoka around 1st emergency declaration in 2020
 Code:
 ```R
+library(tidyverse)
 library(lubridate)
 
 df_date_range_long_subset <- df_date_range_long %>%
