@@ -37,6 +37,7 @@ df_date_range_long %>%
 ```
 
 Output:
+
 ![emergency_long_format_tokyo_example_2021-01-26](https://user-images.githubusercontent.com/44940112/105788203-5c7eb000-5fc3-11eb-8ddd-17af4718e1f7.png)
 
 
@@ -66,6 +67,7 @@ df_date_range_long_subset %>%
 ```
 
 Output:
+
 ![Rplot_emergency_coverage_example](https://user-images.githubusercontent.com/44940112/105791475-85a23f00-5fc9-11eb-935b-3950fb38d23e.png)
 
 
