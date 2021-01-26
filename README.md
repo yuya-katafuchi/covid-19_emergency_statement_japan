@@ -50,7 +50,7 @@ library(lubridate)
 
 df_date_range_long_subset <- df_date_range_long %>%
   filter(prefecture_en %in% c("Hokkaido", "Tokyo", "Kyoto", "Fukuoka")) %>%
-  filter((date >= ymd("2020-04-01")) & date <= ymd("2020-06-01")) %>%
+  filter((date >= ymd("2020-04-01")) & (date <= ymd("2020-06-01"))) %>%
   mutate(prefecture_en = fct_reorder(factor(prefecture_en), id))
 
 df_date_range_long_subset %>%
