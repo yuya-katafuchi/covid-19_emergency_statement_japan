@@ -12,8 +12,7 @@
 
 
 ## Overview
-Date-range data of the COVID-19 emergency declaration for the prefectures in Japan
-
+Date-range data of the COVID-19 emergency declaration for the prefectures in Japan. The emergency declarations in this dataset are those issued by the Japanese government.
 
 ## Description of files
 * `covid-19_emergency_statement_japan.csv`: data file
