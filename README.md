@@ -1,7 +1,8 @@
 # covid-19_emergency_statement_japan
 
-## Table of Contents
-* [Overview](#overview)
+## Table of contents
+* [Overview of this repository](#overview-of-this-repository)
+* [Overview of State of Emergency in response to the Novel Coronavirus Disease in Japan](#overview-of-state-of-emergency-in-response-to-the-novel-coronavirus-disease-in-japan)
 * [Description of Files](#description-of-files)
 * [Description of columns in `covid-19_emergency_statement_japan.csv`](#description-of-columns-in-covid-19_emergency_statement_japancsv)
 * [Data source](#data-source)
@@ -9,6 +10,7 @@
   * [Example of code filtering the long-format data for Tokyo from January 1, 2021 (on January 26, 2021)](#example-of-code-filtering-the-long-format-data-for-tokyo-from-january-1-2021-on-january-26-2021)
   * [Example of code depicting the emergency declaration date-coverage for Hokkaido, Tokyo, Kyoto, and Fukuoka around 1st emergency declaration in 2020](#example-of-code-depicting-the-emergency-declaration-date-coverage-for-hokkaido-tokyo-kyoto-and-fukuoka-around-1st-emergency-declaration-in-2020)
 * [Citation](#citation)
+* [Reference](#reference)
 
 
 ## Overview of this repository
