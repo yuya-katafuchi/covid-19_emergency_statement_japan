@@ -11,8 +11,20 @@
 * [Citation](#citation)
 
 
-## Overview
+## Overview of this repository
 Date-range data of the COVID-19 emergency declaration for the prefectures in Japan. The emergency declarations in this dataset are those issued by the Japanese government.
+
+## Overview of State of Emergency in response to the Novel Coronavirus Disease in Japan
+The declaration of a state of emergency regarding a new coronavirus infection in Japan is a declaration to invoke special authority for an emergency situation or to alert the public, as defined in Chapter 4 of the "Act on Special Measures for Pandemic Influenza and New Infectious Diseases Preparedness and Response", a law in Japan (e-Gov, Japan, 2020; Cabinet Secretariat, Japan, 2020a). The purpose of this law is to protect the lives and health of the people and to minimize the impact on the lives of the people and the national economy (Cabinet Secretariat, Japan, 2020b).
+The state of emergency in Japan is not accompanied by a mandatory lockdown with penalties as in other countries, but is basically based on a request to the public. Specifically, it asks for the following measures (Ministry of Health, Labour, and Welfare, Japan, 2020; Cabinet Secretariat, Japan, 2021):
+* Request to refrain from going out or traveling unnecessarily
+* Request to refrain from holding events where an unspecified number of people gather
+* Request to refrain from opening restaurants, amusement facilities, and large-scale stores, and to shorten their opening hours
+* Request for work-from-home with the aim of reducing the number of employees at work by 70%
+* Expansion of the medical care provision system and inspection system
+* Permission to use urgent and temporary medical facilities
+
+The declaration of a state of emergency based on this law is issued by the government, which can restrict the areas covered by this declaration, and therefore, the implementation of the declaration varies from region to region, especially at the prefectural level to date. This repository consists of data constructed for the purpose of capturing the heterogeneity of such emergency declarations at the prefectural level and conducting data-based analysis, as well as R codes to assist in the analysis using the data.
 
 ## Description of files
 * `covid-19_emergency_statement_japan.csv`: data file
@@ -28,10 +40,10 @@ Date-range data of the COVID-19 emergency declaration for the prefectures in Jap
 
 
 ## Data source
-* 1st declaration (2020): Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan, "Report on the Implementation of Declaration of a State of Emergency in response to the Novel Coronavirus Disease," (in Japanese), 2020/06/04, URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku0604.pdf
-* 2nd declaration (2021): Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan, "Declaration of a State of Emergency in response to the Novel Coronavirus Disease", (in Japanese), 2021/01/07, URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210107.pdf
-  * 1st Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan, "Change in Areas of Declaration of a State of Emergency in response to the Novel Coronavirus Disease", (in Japanese), 2021/01/13, URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210113.pdf
-  * 2nd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan, "Change in Areas and Extention of the Period of Declaration of a State of Emergency in response to the Novel Coronavirus Disease", (in Japanese), 2021/02/02, URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210202.pdf
+* 1st declaration (2020): Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Report on the Implementation of Declaration of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2020/06/04. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku0604.pdf. (Accessed on February 9, 2020).
+* 2nd declaration (2021): Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Declaration of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2021/01/07. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210107.pdf. (Accessed on February 9, 2020).
+  * 1st Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Change in Areas of Declaration of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2021/01/13. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210113.pdf. (Accessed on February 9, 2020).
+  * 2nd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Change in Areas and Extention of the Period of Declaration of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2021/02/02. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210202.pdf. (Accessed on February 9, 2020).
 
 
 ## Example of long-format data generated by `make_long_covid-19_emergency_statement_japan.R`
@@ -86,3 +98,4 @@ Output:
 
 ## Citation
 Katafuchi, Y. (2020). covid-19_emergency_statement_japan. URL: https://github.com/yuya-katafuchi/covid-19_emergency_statement_japan.
+
