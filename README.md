@@ -113,6 +113,7 @@ Output:
 
 ## Citation
 Katafuchi, Y. (2020). covid-19_emergency_statement_japan. URL: https://github.com/yuya-katafuchi/covid-19_emergency_statement_japan. DOI: https://doi.org/10.5281/zenodo.4552924.
+
 [.bib file for BibTeX](https://raw.githubusercontent.com/yuya-katafuchi/covid-19_emergency_statement_japan/master/bib_covid_19_emergency_statement_japan.bib)
 
 ## Reference
