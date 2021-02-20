@@ -16,6 +16,7 @@
 
 ## Overview of this repository
 Date-range data of the COVID-19 emergency declaration for the prefectures in Japan. The emergency declarations in this dataset are those issued by the government of Japan and prefectural governments of Japan.
+[![DOI](https://zenodo.org/badge/275304711.svg)](https://zenodo.org/badge/latestdoi/275304711)
 
 ## Overview of State of Emergency in response to the Novel Coronavirus Disease in Japan
 The declaration of a state of emergency regarding a new coronavirus infection in Japan issued by the government of Japan is a declaration to invoke special authority for an emergency situation or to alert the public, as defined in Chapter 4 of the "Act on Special Measures for Pandemic Influenza and New Infectious Diseases Preparedness and Response", a law in Japan (e-Gov, Japan, 2020; Cabinet Secretariat, Japan, 2020a). The purpose of this law is to protect the lives and health of the people and to minimize the impact on the lives of the people and the national economy (Cabinet Secretariat, Japan, 2020b).
@@ -35,6 +36,7 @@ In addition, this repository also covers emergency declarations by prefectural g
 * `covid-19_emergency_statement_japan.csv`: data file of the state of emergency issued by the government of Japan.
 * `covid-19_emergency_statement_japan_prefectural.csv`: data file of the state of emergency issued by prefectural governments of Japan.
 * `make_long_covid-19_emergency_statement_japan.R`: An R script that converts the above file into a long format data frame represented by a binary variable that indicates under which emergency declaration was issued. This also supports multiple declarations of emergency.
+* `bib_covid-19_emergency_statement_japan.bib`: .bib file for citing this repository in BibTeX.
 
 
 ## Description of columns in `covid-19_emergency_statement_japan.csv`
@@ -110,7 +112,8 @@ Output:
 
 
 ## Citation
-Katafuchi, Y. (2020). covid-19_emergency_statement_japan. URL: https://github.com/yuya-katafuchi/covid-19_emergency_statement_japan.
+Katafuchi, Y. (2020). covid-19_emergency_statement_japan. URL: https://github.com/yuya-katafuchi/covid-19_emergency_statement_japan. DOI: https://doi.org/10.5281/zenodo.4552924.
+[.bib file for BibTeX](https://raw.githubusercontent.com/yuya-katafuchi/covid-19_emergency_statement_japan/master/bib_covid_19_emergency_statement_japan.bib)
 
 ## Reference
 * e-Gov, Japan. (2020). Act on Special Measures for Pandemic Influenza and New Infectious Diseases Preparedness and Response. URL: https://elaws.e-gov.go.jp/document?lawid=424AC0000000031. in Japanese. (Accessed on February 9, 2020).
