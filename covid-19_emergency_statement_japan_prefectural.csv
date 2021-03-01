@@ -4,4 +4,4 @@ id,prefecture_en,emergency_start,emergency_end,times,data-source
 42,Nagasaki,2021-01-18,2021-02-07,1,https://www.pref.nagasaki.jp/bunrui/hukushi-hoken/kansensho/corona_kaiken/corona_onegai11-corona_kaiken-corona_kaiken/
 43,Kumamoto,2021-01-14,2021-02-17,1,https://www.pref.kumamoto.jp/soshiki/30/84592.html
 45,Miyazaki,2021-01-07,2021-02-07,1,https://www.pref.miyazaki.lg.jp/kohosenryaku/covid-19/chiji/20210107154943.html
-47,Okinawa,2021-01-19,,1,https://www.pref.okinawa.jp/site/chijiko/koho/corona/20201120.html
+47,Okinawa,2021-01-19,2021-02-28,1,https://www.pref.okinawa.jp/site/chijiko/koho/corona/20201120.html
