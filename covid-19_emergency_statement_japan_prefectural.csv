@@ -1,5 +1,5 @@
 id,prefecture_en,emergency_start,emergency_end,times,data-source
-8,Ibaraki,2021-01-18,,1,https://www.pref.ibaraki.jp/1saigai/2019-ncov/kinkyujitaisengen.html
+8,Ibaraki,2021-01-18,2021-02-22,1,https://www.pref.ibaraki.jp/1saigai/2019-ncov/kinkyujitaisengen.html
 24,Mie,2021-01-14,,1,https://www.pref.mie.lg.jp/common/content/000929654.pdf
 42,Nagasaki,2021-01-18,2021-02-07,1,https://www.pref.nagasaki.jp/bunrui/hukushi-hoken/kansensho/corona_kaiken/corona_onegai11-corona_kaiken-corona_kaiken/
 43,Kumamoto,2021-01-14,2021-02-17,1,https://www.pref.kumamoto.jp/soshiki/30/84592.html
