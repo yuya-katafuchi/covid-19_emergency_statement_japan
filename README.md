@@ -119,8 +119,8 @@ Katafuchi, Y. (2020). covid-19_emergency_statement_japan. URL: https://github.co
 [.bib file for BibTeX](https://raw.githubusercontent.com/yuya-katafuchi/covid-19_emergency_statement_japan/master/bib_covid_19_emergency_statement_japan.bib)
 
 ## Reference
-* e-Gov, Japan. (2020). Act on Special Measures for Pandemic Influenza and New Infectious Diseases Preparedness and Response. URL: https://elaws.e-gov.go.jp/document?lawid=424AC0000000031. in Japanese. (Accessed on February 9, 2021).
-* Cabinet Secretariat, Japan. (2020a). State of Emergency in response to the Novel Coronavirus Disease. URL: https://corona.go.jp/emergency/. in Japanese. (Accessed on February 9, 2021)
-* Cabinet Secretariat, Japan. (2020b). Act on Special Measures for Pandemic Influenza and New Infectious Diseases Preparedness and Response. URL: https://corona.go.jp/emergency/#influenza. in Japanese. (Accessed on February 9, 2021)
+* e-Gov, Japan. (2020). Act on Special Measures for Pandemic Influenza and New Infectious Diseases Preparedness and Response. in Japanese. URL: https://elaws.e-gov.go.jp/document?lawid=424AC0000000031. (Accessed on February 9, 2021).
+* Cabinet Secretariat, Japan. (2020a). State of Emergency in response to the Novel Coronavirus Disease. in Japanese. URL: https://corona.go.jp/emergency/. (Accessed on February 9, 2021)
+* Cabinet Secretariat, Japan. (2020b). Act on Special Measures for Pandemic Influenza and New Infectious Diseases Preparedness and Response. in Japanese. URL: https://corona.go.jp/emergency/#influenza. (Accessed on February 9, 2021)
 * Ministry of Health, Labour, and Welfare, Japan. (2020). Overview of the Act on Special Measures for Pandemic Influenza and New Infectious Diseases Preparedness and Response. URL: https://www.mhlw.go.jp/content/10900000/000606693.pdf. (Accessed on February 9, 2021)
-* Cabinet Secretariat, Japan. (2021). Revision of the Basic Policy on Countermeasures against Novel Coronavirus Disease (Summary). URL: https://corona.go.jp/emergency/pdf/kihonhoushin_kaitei_20210202.pdf. in Japanese. (Accessed on February 9, 2021)
+* Cabinet Secretariat, Japan. (2021). Revision of the Basic Policy on Countermeasures against Novel Coronavirus Disease (Summary). in Japanese. URL: https://corona.go.jp/emergency/pdf/kihonhoushin_kaitei_20210202.pdf. (Accessed on February 9, 2021)
