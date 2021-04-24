@@ -12,6 +12,7 @@
 * [Data source of `covid-19_emergency_statement_japan.csv`](#data-source-of-covid-19_emergency_statement_japancsv)
 * [Citation](#citation)
 * [Reference](#reference)
+* [Acknowledgement](#acknowledgement)
 
 
 ## Overview of this repository
