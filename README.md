@@ -15,11 +15,11 @@
 
 
 ## Overview of this repository
-Date-range data of the COVID-19 emergency declaration for the prefectures in Japan. The emergency declarations in this dataset are those issued by the government of Japan and prefectural governments of Japan.
+Date-range data of the COVID-19 emergency declaration (緊急事態宣言; _Kinkyujitaisengen_, in Japanese) for the prefectures in Japan. The emergency declarations in this dataset are those issued by the government of Japan and prefectural governments of Japan.
 [![DOI](https://zenodo.org/badge/275304711.svg)](https://zenodo.org/badge/latestdoi/275304711)
 
 ## Overview of State of Emergency in response to the Novel Coronavirus Disease in Japan
-The declaration of a state of emergency regarding a new coronavirus infection in Japan issued by the government of Japan is a declaration to invoke special authority for an emergency situation or to alert the public, as defined in Chapter 4 of the "Act on Special Measures for Pandemic Influenza and New Infectious Diseases Preparedness and Response", a law in Japan (e-Gov, Japan, 2020; Cabinet Secretariat, Japan, 2020a). The purpose of this law is to protect the lives and health of the people and to minimize the impact on the lives of the people and the national economy (Cabinet Secretariat, Japan, 2020b).
+The declaration of a state of emergency (緊急事態宣言; _Kinkyujitaisengen_, in Japanese) regarding a new coronavirus infection in Japan issued by the government of Japan is a declaration to invoke special authority for an emergency situation or to alert the public, as defined in Chapter 4 of the "Act on Special Measures for Pandemic Influenza and New Infectious Diseases Preparedness and Response", a law in Japan (e-Gov, Japan, 2020; Cabinet Secretariat, Japan, 2020a). The purpose of this law is to protect the lives and health of the people and to minimize the impact on the lives of the people and the national economy (Cabinet Secretariat, Japan, 2020b).
 The state of emergency in Japan is not accompanied by a mandatory lockdown with penalties as in other countries, but is basically based on a request to the public. Specifically, it asks for the following measures (Ministry of Health, Labour, and Welfare, Japan, 2020; Cabinet Secretariat, Japan, 2021):
 * Request to refrain from going out or traveling unnecessarily
 * Request to refrain from holding events where an unspecified number of people gather
@@ -110,6 +110,7 @@ Output:
   * 1st Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Change in Areas of Declaration of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2021/01/13. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210113.pdf. (Accessed on February 9, 2020).
   * 2nd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Change in Areas and Extention of the Period of Declaration of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2021/02/02. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210202.pdf. (Accessed on February 9, 2020).
   * 3rd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Change in Areas of Declaration of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2021/02/26. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210226.pdf. (Accessed on February 28, 2020).
+  * 4th Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. End of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2021/03/18. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_shuryo_20210319.pdf. (Accessed on March 19, 2020).
 
 
 ## Citation
