@@ -115,6 +115,7 @@ Output:
 * 3rd Declaration (2021): Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Declaration of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2021/04/23. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_20210423.pdf. (Accessed on April 23, 2021).
   * 1st Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Change in Areas and Extention of the Period of Declaration of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2021/05/07. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210507.pdf. (Accessed on May 7, 2021).
   * 2nd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Change in Areas of Declaration of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2021/05/14. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210514.pdf. (Accessed on May 15, 2021).
+  * 3rd Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Change in Areas and Extention of the Period of Declaration of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2021/05/21. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210521.pdf. (Accessed on May 21, 2021).
 
 
 
