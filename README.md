@@ -36,7 +36,7 @@ In addition, this repository also covers emergency declarations by prefectural g
 ## Description of files
 * `covid-19_emergency_statement_japan.csv`: data file of the state of emergency issued by the government of Japan.
 * `covid-19_emergency_statement_japan_prefectural.csv`: data file of the state of emergency issued by prefectural governments of Japan.
-* `make_long_covid19_emergency_statement_japan.R`: An R script of function which converts the above file into a long format data frame represented by a binary variable that indicates under which emergency declaration was issued. This also supports multiple declarations of emergency.
+* `make_long_covid19_emergency_statement_japan.R`: An R script of function which converts the above file into a long format data frame represented by a binary variable that indicates under which emergency declaration was issued, and times of declarations. This also supports multiple declarations of emergency.
 * `bib_covid-19_emergency_statement_japan.bib`: .bib file for citing this repository in BibTeX.
 
 
