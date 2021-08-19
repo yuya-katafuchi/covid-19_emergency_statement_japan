@@ -54,7 +54,7 @@ make_long_covid19_emergency_statement_japan <-  function(
     # initialize sequence of binary long-format array
     date_sequence_condition <- rep(FALSE, length(date_sequence))
     # initialize sequence of times
-      times_sequence <- rep(NA, length(date_sequence))
+    times_sequence <- rep(NA, length(date_sequence))
     # for jth declaration in ith prefecture
     for (j in 1:dim(wide_df_emergency_statement_i)[1]){
       # get start date of jth declaration in ith prefecture
