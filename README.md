@@ -125,7 +125,7 @@ Output:
   * 8th Amendment:  Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Change in Areas and Extention of the Period of Declaration of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2021/08/17. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210817.pdf. (Accessed on August 17, 2021).
   * 9th Amendment: Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Change in Areas of Declaration of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2021/08/25. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210825.pdf. (Accessed on August 25, 2021).
   * 10th Amendment:  Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. Change in Areas and Extention of the Period of Declaration of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2021/09/09. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210909.pdf. (Accessed on September 9, 2021).
-
+  * 11th Amendment:  Office for Novel Coronavirus Disease Control, Cabinet Secretariat, Government of Japan. End of Declaration of a State of Emergency in response to the Novel Coronavirus Disease. in Japanese. 2021/09/09. URL: https://corona.go.jp/news/pdf/kinkyujitaisengen_houkoku_20210928.pdf. (Accessed on September 28, 2021).
 
 
 ## Citation
